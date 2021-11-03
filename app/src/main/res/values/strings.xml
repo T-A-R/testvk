@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TestVK</string>
+    <string name="search_hint">\uD83D\uDD0D Поиск</string>
+    <string name="name_label">Тарас Маевский</string>
+    <string name="news_label">Новости</string>
+    <string name="recommendations_label">Рекомендации</string>
+    <string name="notifications_label">Уведомления</string>
+    <string name="messenger_label">Мессенджер</string>
+    <string name="friends_label">Друзья</string>
+    <string name="groups_label">Сообщества</string>
+    <string name="photos_label">Фотографии</string>
+    <string name="vids_label">Видео</string>
+    <string name="music_label">Музыка</string>
+    <string name="apps_label">Мини-приложения</string>
+    <string name="games_label">Игры</string>
+    <string name="bookmarks_label">Закладки</string>
+    <string name="files_label">Файлы</string>
+    <string name="advs_label">Реклама</string>
+    <string name="likes_label">Реакции</string>
+    <string name="search_label">Поиск</string>
+    <string name="search_something_hint">Напишите что-нибудь...</string>
+    <string name="profile_photo">Фото профиля</string>
+    <string name="profile_photo_hint">Друзьям будет проще узнать вас, если вы загрузите свою настоящую фотографию.</string>
+    <string name="profile_photo_upload">Выбрать фотографию</string>
+    <string name="find_friends_label">Найти друзей</string>
+    <string name="ok_label_text">Одноклассники</string>
+    <string name="find_friends_ok">Найти друзей через Одноклассники</string>
+    <string name="google_label_text">Google</string>
+    <string name="find_friends_google">Найти друзей через Google</string>
+    <string name="phone_label_text">Пригласить друга</string>
+    <string name="find_friends_phone">По номеру телефона или email</string>
+    <string name="world_label_text">Другое</string>
+    <string name="find_friends_world">Другие социальные сети</string>
+    <string name="lf_label_text">LF | Сериалы LOST (ЛОСТ)</string>
+    <string name="lf_date">сегодня в 14:15</string>
+    <string name="lf_desc_text">Тизер-трейлер «Морбиуса» с Джаредом Лето.\nВыход фильма состоится 28 января 2022 года.</string>
+</resources>
